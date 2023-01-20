@@ -1,0 +1,35 @@
+* 57935c4 Historial de Commits en formato txt
+* 01c1194 Agregando Lorem100x2
+*   a6de471 Resolviendo conflictos de traer agregar mas info en el mismo commit
+|\  
+| *   f9dbf7b Agregando commit nuevo
+| |\  
+* | \   538c9d2 Agregando commit nuevo
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   e753f34 Agregnado Indices y Paginas Porque me tiro un Conflicto,pero esta resuelto
+| |\  
+* | \   c0a5a5c Agregnado Indices y Paginas Porque me tiro un Conflicto,pero esta resuelto
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * d6f0ac0 Agregando Nuevos <li>
+* | 4ae7896 Agregnado indices y paginas
+|/  
+* 26a6822 Resolviendo Conflictos
+*   269c8a8 Resolviendo Conflicto
+|\  
+| * 56f84d6 Agregando scripts.js al index.html
+* | c3c065e Agregando style.css al index.html
+* |   9584168 Merge branch 'javascript'
+|\ \  
+| * | a647ba6 Agregando script.js
+* | | b59aee4 Creando style.css
+| |/  
+|/|   
+* | 827ebb5 Crando archivo index.html
+|/  
+* c46deb4 Agregando commit
