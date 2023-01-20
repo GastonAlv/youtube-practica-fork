@@ -1,0 +1,108 @@
+commit 01c119474e5c86900a8f5edf4d4322d19629aa3a
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:47:42 2023 -0300
+
+    Agregando Lorem100x2
+
+commit a6de471e2c9cf8cd6c19001bec6e59e71faa48c9
+Merge: 538c9d2 f9dbf7b
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:45:34 2023 -0300
+
+    Resolviendo conflictos de traer agregar mas info en el mismo commit
+
+commit 538c9d22657bc64a1ab93c65bfbb4101e8f09510
+Merge: c0a5a5c e753f34
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:43:32 2023 -0300
+
+    Agregando commit nuevo
+
+commit f9dbf7b46e21139c4d1faf1f942933c2b370d408
+Merge: c0a5a5c e753f34
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:43:32 2023 -0300
+
+    Agregando commit nuevo
+
+commit c0a5a5c9f370fdee2c515ca3dbca7f0c49ec8545
+Merge: 4ae7896 d6f0ac0
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:40:20 2023 -0300
+
+    Agregnado Indices y Paginas Porque me tiro un Conflicto,pero esta resuelto
+
+commit e753f3465a476fd91ff768d3dffbe0716af78876
+Merge: 4ae7896 d6f0ac0
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:40:20 2023 -0300
+
+    Agregnado Indices y Paginas Porque me tiro un Conflicto,pero esta resuelto
+
+commit 4ae7896f491f24745fbdb261fc2477ce4d430149
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:25:41 2023 -0300
+
+    Agregnado indices y paginas
+
+commit d6f0ac06783645b1bee082687b6021fff4ceca46
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 21:25:41 2023 -0300
+
+    Agregando Nuevos <li>
+
+commit 26a6822b9d4341215aa986b21d649446a3793ff8
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:56:20 2023 -0300
+
+    Resolviendo Conflictos
+
+commit 269c8a80726c7c64cd3a8e9d3c71d942e8f09c9c
+Merge: c3c065e 56f84d6
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:53:16 2023 -0300
+
+    Resolviendo Conflicto
+
+commit 56f84d601966be6aee0726fc1203e8d87860d368
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:48:59 2023 -0300
+
+    Agregando scripts.js al index.html
+
+commit c3c065ee0afa50cf6693410923b6c0df98681b1b
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:46:46 2023 -0300
+
+    Agregando style.css al index.html
+
+commit 9584168ce09e5929b20dd0d126cc4c68548a2d64
+Merge: b59aee4 a647ba6
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:37:59 2023 -0300
+
+    Merge branch 'javascript'
+
+commit a647ba6409de33b942dfd58ba21992b4c9b426b1
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:33:23 2023 -0300
+
+    Agregando script.js
+
+commit b59aee4f4d2176e6c0255be7f48d815c70936441
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:29:02 2023 -0300
+
+    Creando style.css
+
+commit 827ebb5ed15345540ba3cd20d2727cb5960a22ef
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Thu Jan 19 19:25:06 2023 -0300
+
+    Crando archivo index.html
+
+commit c46deb4d4fee11fd93571049591b82bda4b29a06
+Author: Gaston Alvarez <gaston.alvarez.gary@gmail.com>
+Date:   Wed Jan 18 16:59:22 2023 -0300
+
+    Agregando commit
